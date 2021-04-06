@@ -1,0 +1,376 @@
+/*---------------------------------Navbar*/
+
+
+.navbar-light .navbar-brand{
+    color: #f4f3ee;
+    font-family: 'Playfair Display SC', serif;
+}
+
+.navbar-expand-lg{
+    background-color: #1a581a;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: #f4f3ee;
+    font-family: 'Playfair Display SC', serif;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #f4f3ee;
+    font-family: 'Playfair Display SC', serif;
+}
+
+.title{
+    font-family: 'Playfair Display SC', serif;
+    color: #1a581a;
+}
+
+.bg-light{
+    background-color: #1a581a;
+}
+
+/*----------------------------Business Ethos*/
+
+p{
+    color: #1a581a;
+    font-family: 'Shippori Mincho B1', sans-serif;
+    text-align: center;
+}
+
+.business-ethos{
+    padding-top: 100px;
+    background-color: #f4f3ee;
+}
+
+h5{
+    font-family: 'Playfair Display SC', serif;
+}
+
+section{
+    background-color: #f4f3ee;
+}
+
+.price-list{
+    float: left;
+    list-style: circle;
+    color: #1a581a;
+    font-family: 'Shippori Mincho B1', sans-serif;
+}
+
+/*-------------------------------best-seller*/
+h6{
+    text-align: center;
+    font-family: 'Shippori Mincho B1', sans-serif;
+    color: #1a581a;
+}
+
+#home-page-image{
+    background: url("../images/image3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 600px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.first-best-seller{
+    object-fit: fill;
+    width: 255px;
+    height: 340px;
+}
+
+.second-best-seller{
+    object-fit: fill;
+    width: 255px;
+    height: 340px;
+}
+
+h2{
+    font-family: 'Playfair Display SC', serif;
+    padding-top: 25px;
+    color: #1a581a;
+    text-align: center;
+}
+
+button{
+    font-size: small;
+    color: #1a581a;
+    border-radius: 4px;
+    transition-duration: 0.4s;
+}
+
+button:hover{
+    background-color: #1a581a;
+    color: white;
+}
+
+/* ----------------------------------------Footer */
+
+footer{
+    background-color: #1a581a;
+    bottom: 0px;
+}
+
+.footer-content{
+    color: #f4f3ee;
+}
+
+.footer-links{
+    color: #f4f3ee;
+}
+
+body{
+    background-color: #1a581a;
+}
+
+
+/*----------------------------------------Background color */
+#hero-outer{
+    background-color: #f4f3ee;
+}
+
+#best-sellers{
+    background-color: #f4f3ee;
+}
+
+.body{
+    background-color: #f4f3ee;
+}
+
+.product-page-background{
+    background-color: #f4f3ee;
+}
+
+
+/*--------------------------------------------About us */
+
+#about-us{
+    padding-top: 50px;
+    font-family: 'Shippori Mincho B1', sans-serif;
+}
+
+#three-parts{
+    padding-top: 50px;
+}
+
+
+#florist-shop{
+    background: url("../images/floristshop.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.about-us{
+    text-align: center;
+}
+
+
+#business-ethos{
+    font-family: 'Shippori Mincho B1', sans-serif;
+}
+
+
+#wedding-pic{
+    object-fit: fill;
+    width: 255px;
+    height: 340px;
+    
+}
+
+#florist-pic{
+    object-fit: fill;
+    width: 255px;
+    height: 340px;
+    
+}
+
+#our-products{
+    object-fit: fill;
+    width: 255px;
+    
+}
+
+.occasions{
+    text-align: center;
+    font-size: 10%;
+}
+
+.policy{
+    text-align: center;
+}
+
+/*-----------------------------------Product Page*/
+
+.product-page{
+    object-fit: fill;
+    width: 255px;
+    height: 340px;
+}
+
+
+
+/*-----------------------------------View More Product page*/
+
+.heaven-scent{
+    background: url("../images/image0.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.tropical-summer{
+    background: url("../images/image3.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.pretty-in-pink{
+    background: url("../images/image1.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.cool-breeze{
+    background: url("../images/image2.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.universe{
+    background: url("../images/image10.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.mellow-yellow{
+    background: url("../images/image6.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.caribbean-twist{
+    background: url("../images/mothersday.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.mammamia{
+    background: url("../images/purple:pink.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.valentines{
+    background: url("../images/valentinesbox.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.fa-3x{
+    color: #1a581a;
+}
+
+
+/*-----------------------------------View More Product page*/
+
+@media screen and (max-width:500px){
+    .valentines{
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-top: auto;
+    }
+
+    .mammamia{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .mellow-yellow{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .pretty-in-pink{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .tropical-summer{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .universe{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .caribbean-twist{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .heaven-scent{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .cool-breeze{
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: auto;
+    }
+
+    .home-page-image{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
