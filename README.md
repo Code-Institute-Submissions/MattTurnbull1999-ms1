@@ -94,4 +94,4 @@ Acknowledgements: For inspiration i used florist sites such as Bloom and Wild - 
 
 Wireframes:
 
-MS1 Wireframe.bmpr
+Readme folder - See Wireframes
