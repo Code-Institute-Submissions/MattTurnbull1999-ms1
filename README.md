@@ -95,3 +95,13 @@ Acknowledgements: For inspiration i used florist sites such as Bloom and Wild - 
 Wireframes:
 
 Readme folder - See Wireframes
+
+Deployment:
+
+1.select the chosen reports
+2. select settings
+3.scroll down to github pages
+4.change branch to master
+5.save
+6.once the page reloads scroll down to the github pages and see the link next too "your site is published at"
+
