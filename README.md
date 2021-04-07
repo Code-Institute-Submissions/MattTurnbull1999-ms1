@@ -92,5 +92,3 @@ Acknowledgements: For inspiration i used florist sites such as Bloom and Wild - 
 
 Wireframes:
 
-cid:3D6E1167-55A3-47FE-8F28-3CBBC9FB3579
-
