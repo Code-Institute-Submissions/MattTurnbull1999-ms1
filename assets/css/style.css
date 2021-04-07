@@ -29,6 +29,12 @@
     background-color: #1a581a;
 }
 
+@media screen and (max-width:300px){
+    .navbar-brand{
+        font-size: 1rem;
+    }
+}
+
 /*----------------------------Business Ethos*/
 
 p{
