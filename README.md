@@ -86,9 +86,12 @@ Deployment:
 
 Technology; HTML, CSS and JavaScript GoogleFonts, Font Awesome, Bootstrap frameworks for responsiveness, CSS hover
 
+IMPORTANT - Please note that the JavaScript carousel on the index.html page and the Bootstrap nav at the top of ALL pages are NOT MY WORK, i took these from the Bootsrap website - https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
 Media: The Bouquets images are ALL actual imgages of the business products The florist pic, wedding pic and the our policy pictures were all sourced from shutterstock - https://www.shutterstock.com/
 
 Acknowledgements: For inspiration i used florist sites such as Bloom and Wild - https://www.bloomandwild.com/ Eflorist - https://www.eflorist.co.uk/ For any questions i used https://www.w3schools.com/ to help find the answer. Also i used the slack channels, to search for any similar questions that other people may have had and already found the answer.
 
 Wireframes:
 
+MS1 Wireframe.bmpr
